@@ -1,0 +1,4 @@
+golang.org/x/exp v0.0.0-20231110203233-9a3e6036ecaa h1:FRnLl4eNAQl8hwxVVC17teOw8kdjVDVAiFMtgUdTSRQ=
+golang.org/x/exp v0.0.0-20231110203233-9a3e6036ecaa/go.mod h1:zk2irFbV9DP96SEBUUAy67IdHUaZuSnrz1n472HUCLE=
+gonum.org/v1/gonum v0.14.1-0.20231128082750-f74f45f5f3e9 h1:ZReKP7jgjKJkZc6a0PcCJxxRQkOytOduVSlKAEvTSKs=
+gonum.org/v1/gonum v0.14.1-0.20231128082750-f74f45f5f3e9/go.mod h1:eBDTPQ9zxEvUuTaaK7+wUhFaty3i842H05OcG5pRWmw=
